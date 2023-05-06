@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dharmesh4523
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
